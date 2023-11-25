@@ -1,6 +1,28 @@
 # 2023-Asan-Help-Challenge-topic4-1st-solution
 to be continued..
 
+# HeLP 2023 Contest - Theme 4: Vascular Wall Lesion Detection in MRI Images
+
+## Overview
+
+We are delighted to announce that our team, comprised of members from the Catholic University of Korea Seoul St. Mary's Hospital and myself (Kanghoon Lee), clinched the first place in the HeLP 2023 contest. The contest, hosted by Seoul Asan Medical Center, the Ministry of Health and Welfare, the Ministry of Science and ICT, and the Center for Medical Data, featured diverse themes, with our focus centered on Theme 4.
+
+## Theme 4: Vascular Wall Lesion Detection in MRI Images
+
+The challenge posed in Theme 4 centered around the detection of vascular wall lesions in MRI images through segmentation. Despite the inherent difficulty associated with the small scale of the lesions, our team tackled the task with unwavering dedication.
+
+## Team Members
+
+- Prof. Kang Youngnam
+- Prof. Lee Younggyu
+- Prof. Chun Wonjoong
+- Kanghoon Lee (Myself, Medical Engineering Student)
+
+We extend our gratitude for the invaluable support and guidance provided by our esteemed professors, which significantly contributed to the success of our project.
+
+---
+
+**Note:** Feel free to adjust the content based on any additional details or specific achievements you would like to emphasize.
 
 # Scientific Overview
 
