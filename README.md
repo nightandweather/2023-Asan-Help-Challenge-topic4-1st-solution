@@ -24,7 +24,7 @@ Develop an AI model to accurately segment vessel wall lesions on high-resolution
 ## Image Data
 - T1-weighted image and Lesion mask (lesion mask is the target label)
   - Acquisition protocol: The T1-weighted image was acquired using a 3.0-T MRI scanner (Skyra, Siemens; TR/TE = 900ms/15ms, flip angle = 120, Acquisition Matrix = 320 x 320, FOV = 192 x 192, slice thickness = 0.6mm without gap).
-  ![Topic Image](2023-Asan-Help-Challenge-topic4-1st-solution/assets/topic_img4.jpg)
+  ![Topic Image](asset/topic_img4.jpg)
 
 ## Infarct Lesion Mask
 - Infarct regions were manually segmented on the T1-weighted image by an expert neuroradiologist.
