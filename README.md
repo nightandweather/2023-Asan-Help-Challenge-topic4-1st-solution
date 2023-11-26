@@ -1,5 +1,6 @@
 # 2023-Asan-Help-Challenge-topic4-1st-solution
 
+The solution is documented step by step in the file 'inference2.ipynb.' Empty code sections will be filled in later, and explanations are kept as simple as possible
 
 # HeLP 2023 Contest - Theme 4: Vascular Wall Lesion Detection in MRI Images
 
