@@ -6,7 +6,7 @@ The solution is documented step by step in the file 'inference2.ipynb.' Empty co
 
 ## Overview
 
-We are delighted to announce that our team, comprised of members from the Catholic University of Korea Seoul St. Mary's Hospital and myself (Kanghoon Lee), clinched the first place in the HeLP 2023 contest. The contest, hosted by Seoul Asan Medical Center, the Ministry of Health and Welfare, the Ministry of Science and ICT, and the Center for Medical Data, featured diverse themes, with our focus centered on Theme 4.
+We are delighted to announce that our team, comprised of members from the Catholic University of Korea Seoul St. Mary's Hospital and myself (Kanghoun Lee), clinched the first place in the HeLP 2023 contest. The contest, hosted by Seoul Asan Medical Center, the Ministry of Health and Welfare, the Ministry of Science and ICT, and the Center for Medical Data, featured diverse themes, with our focus centered on Theme 4.
 
 ## Theme 4: Vascular Wall Lesion Detection in MRI Images
 
