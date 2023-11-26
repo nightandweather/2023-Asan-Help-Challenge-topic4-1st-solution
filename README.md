@@ -15,7 +15,7 @@ The challenge posed in Theme 4 centered around the detection of vascular wall le
 ## Team Members
 
 - Prof. Cheon Wonjoong
-- Kanghoon Lee (Myself, Medical Engineering Student)
+- Kanghoun Lee (Myself, Medical Engineering Student)
 - Prof. Kang Youngnam
 - Prof. Lee Youngkyu
 
