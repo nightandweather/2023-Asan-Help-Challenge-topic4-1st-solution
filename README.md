@@ -67,3 +67,6 @@ Develop an AI model to accurately segment vessel wall lesions on high-resolution
 
 ## Evaluation
 - Average dice similarity coefficient (DSC) in validation data.
+
+## Leaderboard (2023-11-23)
+![1st_award](asset/1st_award.png)
